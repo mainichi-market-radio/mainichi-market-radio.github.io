@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>毎日マーケットラジオ｜米国株・日本株 きょうのまとめ</title>
+    <link>https://misawa-market-radio.pages.dev/</link>
+    <atom:link href="https://mainichi-market-radio.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <copyright>© 2026 Misawa SI Agent</copyright>
+    <description><![CDATA[火〜土の朝7時ごろ（米国の冬時間は8時ごろ）にNY市場（米国株・金利・為替・原油）、平日の17時ごろに東京市場（日経平均・TOPIX・主な業種）のまとめを、5〜10分の会話形式でお届けします。数字は公開情報を突き合わせて確認したものだけを使っています。通勤・家事の合間にどうぞ。
+
+※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。
+※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。]]></description>
+    <itunes:summary>火〜土の朝7時ごろ（米国の冬時間は8時ごろ）にNY市場（米国株・金利・為替・原油）、平日の17時ごろに東京市場（日経平均・TOPIX・主な業種）のまとめを、5〜10分の会話形式でお届けします。数字は公開情報を突き合わせて確認したものだけを使っています。通勤・家事の合間にどうぞ。</itunes:summary>
+    <itunes:author>Misawa SI Agent</itunes:author>
+    <itunes:owner><itunes:name>Misawa SI Agent</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://misawa-market-radio.pages.dev/cover.jpg"/>
+    <image><url>https://misawa-market-radio.pages.dev/cover.jpg</url><title>毎日マーケットラジオ｜米国株・日本株 きょうのまとめ</title><link>https://misawa-market-radio.pages.dev/</link></image>
+    <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>10/10（土）NY市場まとめ｜半導体株だけ下落、NY市場は4指数上昇</title>
+      <description><![CDATA[<p>10月9日のNY市場は主要5指数のうち4つが上昇した一方、半導体株中心のSOX指数だけが下落しました。</p>]]></description>
+      <enclosure url="https://misawa-market-radio.pages.dev/episodes/2026-10-10-ny.mp3" length="2456389" type="audio/mpeg"/>
+      <guid isPermaLink="false">misawa-market-2026-10-10-ny</guid>
+      <pubDate>Sat, 10 Oct 2026 07:07:02 +0900</pubDate>
+      <itunes:duration>00:05:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10/9（金）東証大引けまとめ｜値幅1,000円でも日経平均ほぼ変わらず</title>
+      <description><![CDATA[<p>10月9日の東証大引けは、日経平均がほぼ前日並みで終わった一方、日中の値幅は約1,000円に達した1日でした。</p>]]></description>
+      <enclosure url="https://misawa-market-radio.pages.dev/episodes/2026-10-09-jp.mp3" length="3611210" type="audio/mpeg"/>
+      <guid isPermaLink="false">misawa-market-2026-10-09-jp</guid>
+      <pubDate>Fri, 09 Oct 2026 21:23:01 +0900</pubDate>
+      <itunes:duration>00:07:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
