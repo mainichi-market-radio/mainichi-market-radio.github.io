@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>毎日マーケットラジオ｜米国株・日本株 きょうのまとめ</title>
+    <title>毎日マーケットラジオ｜米国・日本・中国・欧州 きょうのまとめ</title>
     <link>https://misawa-market-radio.pages.dev/</link>
     <atom:link href="https://mainichi-market-radio.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <copyright>© 2026 Misawa SI Agent</copyright>
-    <description><![CDATA[火〜土の朝7時ごろ（米国の冬時間は8時ごろ）にNY市場（米国株・金利・為替・原油）、平日の17時ごろに東京市場（日経平均・TOPIX・主な業種）のまとめを、5〜10分の会話形式でお届けします。数字は公開情報を突き合わせて確認したものだけを使っています。通勤・家事の合間にどうぞ。
+    <description><![CDATA[火〜土の朝7時ごろ（米国の冬時間は8時ごろ）にNY市場（米国株・金利・為替・原油）、朝6時までに欧州市場（ドイツDAX・ユーロ・ストックス50・ユーロ相場・ECB）、平日の17時ごろに東京市場（日経平均・TOPIX・主な業種）、18時45分ごろに中国市場（上海・深セン・香港・人民元）のまとめを、5〜10分の会話形式でお届けします。各市場の数字は、その市場で直近に確定した終値で、公開情報を突き合わせて確認したものだけを使っています。通勤・家事の合間にどうぞ。
 
 ※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。
 ※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。]]></description>
-    <itunes:summary>火〜土の朝7時ごろ（米国の冬時間は8時ごろ）にNY市場（米国株・金利・為替・原油）、平日の17時ごろに東京市場（日経平均・TOPIX・主な業種）のまとめを、5〜10分の会話形式でお届けします。数字は公開情報を突き合わせて確認したものだけを使っています。通勤・家事の合間にどうぞ。
+    <itunes:summary>火〜土の朝7時ごろ（米国の冬時間は8時ごろ）にNY市場（米国株・金利・為替・原油）、朝6時までに欧州市場（ドイツDAX・ユーロ・ストックス50・ユーロ相場・ECB）、平日の17時ごろに東京市場（日経平均・TOPIX・主な業種）、18時45分ごろに中国市場（上海・深セン・香港・人民元）のまとめを、5〜10分の会話形式でお届けします。各市場の数字は、その市場で直近に確定した終値で、公開情報を突き合わせて確認したものだけを使っています。通勤・家事の合間にどうぞ。
 
 ※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。
 ※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。</itunes:summary>
     <itunes:author>Misawa SI Agent</itunes:author>
     <itunes:owner><itunes:name>Misawa SI Agent</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://mainichi-market-radio.github.io/cover.jpg"/>
-    <image><url>https://mainichi-market-radio.github.io/cover.jpg</url><title>毎日マーケットラジオ｜米国株・日本株 きょうのまとめ</title><link>https://misawa-market-radio.pages.dev/</link></image>
+    <image><url>https://mainichi-market-radio.github.io/cover.jpg</url><title>毎日マーケットラジオ｜米国・日本・中国・欧州 きょうのまとめ</title><link>https://misawa-market-radio.pages.dev/</link></image>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -25,13 +25,13 @@
     <webMaster>shoukai.jp@gmail.com (Misawa SI Agent)</webMaster>
     <itunes:email>shoukai.jp@gmail.com</itunes:email>
     <podcast:locked owner="shoukai.jp@gmail.com">no</podcast:locked>
-    <lastBuildDate>Sat, 10 Oct 2026 07:07:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:05:11 +0900</lastBuildDate>
     <item>
       <title>10/10（土）NY市場まとめ｜半導体株だけ下落、NY市場は4指数上昇</title>
-      <description><![CDATA[<p>10月9日のNY市場は主要5指数のうち4つが上昇した一方、半導体株中心のSOX指数だけが下落しました。VIXの大幅な下落や、金利・為替・金・原油の動きも振り返ります。</p><ul><li>メルマガ「【みさわサポート】ビジネスコミュニケーション」：<a href="https://www.mag2.com/m/0001672857">https://www.mag2.com/m/0001672857</a></li><li>文字で読むマーケットレポート（NY市場・東証、直近1か月）：<a href="https://misawa-market-radio.pages.dev/report/">https://misawa-market-radio.pages.dev/report/</a></li></ul><p>※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。</p><p>※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。</p>]]></description>
+      <description><![CDATA[<p>10月9日のNY市場は主要5指数のうち4つが上昇した一方、半導体株中心のSOX指数だけが下落しました。VIXの大幅な下落や、金利・為替・金・原油の動きも振り返ります。</p><ul><li>メルマガ「【みさわサポート】ビジネスコミュニケーション」：<a href="https://www.mag2.com/m/0001672857">https://www.mag2.com/m/0001672857</a></li><li>文字で読むマーケットレポート（NY・東証・中国・欧州、直近1か月）：<a href="https://misawa-market-radio.pages.dev/report/">https://misawa-market-radio.pages.dev/report/</a></li></ul><p>※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。</p><p>※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。</p>]]></description>
       <itunes:summary>10月9日のNY市場は主要5指数のうち4つが上昇した一方、半導体株中心のSOX指数だけが下落しました。VIXの大幅な下落や、金利・為替・金・原油の動きも振り返ります。
 メルマガ「【みさわサポート】ビジネスコミュニケーション」：https://www.mag2.com/m/0001672857
-文字で読むマーケットレポート（NY市場・東証、直近1か月）：https://misawa-market-radio.pages.dev/report/
+文字で読むマーケットレポート（NY・東証・中国・欧州、直近1か月）：https://misawa-market-radio.pages.dev/report/
 ※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。
 ※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。</itunes:summary>
       <enclosure url="https://mainichi-market-radio.github.io/episodes/2026-10-10-ny.mp3" length="2456389" type="audio/mpeg"/>
@@ -44,10 +44,10 @@
     </item>
     <item>
       <title>10/9（金）東証大引けまとめ｜値幅1,000円でも日経平均ほぼ変わらず</title>
-      <description><![CDATA[<p>10月9日の東証大引けは、日経平均がほぼ前日並みで終わった一方、日中の値幅は約1,000円に達した1日でした。半導体株安とSQ要因、個別銘柄や業種の動きを振り返ります。</p><ul><li>メルマガ「【みさわサポート】ビジネスコミュニケーション」：<a href="https://www.mag2.com/m/0001672857">https://www.mag2.com/m/0001672857</a></li><li>文字で読むマーケットレポート（NY市場・東証、直近1か月）：<a href="https://misawa-market-radio.pages.dev/report/">https://misawa-market-radio.pages.dev/report/</a></li></ul><p>※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。</p><p>※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。</p>]]></description>
+      <description><![CDATA[<p>10月9日の東証大引けは、日経平均がほぼ前日並みで終わった一方、日中の値幅は約1,000円に達した1日でした。半導体株安とSQ要因、個別銘柄や業種の動きを振り返ります。</p><ul><li>メルマガ「【みさわサポート】ビジネスコミュニケーション」：<a href="https://www.mag2.com/m/0001672857">https://www.mag2.com/m/0001672857</a></li><li>文字で読むマーケットレポート（NY・東証・中国・欧州、直近1か月）：<a href="https://misawa-market-radio.pages.dev/report/">https://misawa-market-radio.pages.dev/report/</a></li></ul><p>※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。</p><p>※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。</p>]]></description>
       <itunes:summary>10月9日の東証大引けは、日経平均がほぼ前日並みで終わった一方、日中の値幅は約1,000円に達した1日でした。半導体株安とSQ要因、個別銘柄や業種の動きを振り返ります。
 メルマガ「【みさわサポート】ビジネスコミュニケーション」：https://www.mag2.com/m/0001672857
-文字で読むマーケットレポート（NY市場・東証、直近1か月）：https://misawa-market-radio.pages.dev/report/
+文字で読むマーケットレポート（NY・東証・中国・欧州、直近1か月）：https://misawa-market-radio.pages.dev/report/
 ※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。
 ※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。</itunes:summary>
       <enclosure url="https://mainichi-market-radio.github.io/episodes/2026-10-09-jp.mp3" length="3611210" type="audio/mpeg"/>
@@ -60,10 +60,10 @@
     </item>
     <item>
       <title>番組紹介｜毎日マーケットラジオってどんな番組？</title>
-      <description><![CDATA[<p>朝はNY市場、夕方は東証。1日2回、5〜10分で相場の流れをつかめる市況番組の紹介です。</p><ul><li>メルマガ「【みさわサポート】ビジネスコミュニケーション」：<a href="https://www.mag2.com/m/0001672857">https://www.mag2.com/m/0001672857</a></li><li>文字で読むマーケットレポート（NY市場・東証、直近1か月）：<a href="https://misawa-market-radio.pages.dev/report/">https://misawa-market-radio.pages.dev/report/</a></li></ul><p>※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。</p><p>※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。</p>]]></description>
+      <description><![CDATA[<p>朝はNY市場、夕方は東証。1日2回、5〜10分で相場の流れをつかめる市況番組の紹介です。</p><ul><li>メルマガ「【みさわサポート】ビジネスコミュニケーション」：<a href="https://www.mag2.com/m/0001672857">https://www.mag2.com/m/0001672857</a></li><li>文字で読むマーケットレポート（NY・東証・中国・欧州、直近1か月）：<a href="https://misawa-market-radio.pages.dev/report/">https://misawa-market-radio.pages.dev/report/</a></li></ul><p>※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。</p><p>※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。</p>]]></description>
       <itunes:summary>朝はNY市場、夕方は東証。1日2回、5〜10分で相場の流れをつかめる市況番組の紹介です。
 メルマガ「【みさわサポート】ビジネスコミュニケーション」：https://www.mag2.com/m/0001672857
-文字で読むマーケットレポート（NY市場・東証、直近1か月）：https://misawa-market-radio.pages.dev/report/
+文字で読むマーケットレポート（NY・東証・中国・欧州、直近1か月）：https://misawa-market-radio.pages.dev/report/
 ※この番組は市況の解説で、投資助言ではありません。特定の銘柄の売買をすすめるものではなく、投資の判断はご自身でお願いします。
 ※台本はAIが作成し、数字を確認したうえで、AI音声で読み上げています。登場する2人は架空のキャラクターです。</itunes:summary>
       <enclosure url="https://mainichi-market-radio.github.io/episodes/2026-10-09-info.mp3" length="747980" type="audio/mpeg"/>
